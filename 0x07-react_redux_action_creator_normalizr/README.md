@@ -24,3 +24,8 @@
 - A ```README.md``` file, at the root of the folder of the project, is mandatory
 - Push all of your files, including ```package.json``` and ```.babelrc```
 - All of your functions must be exported
+
+
+# Repo:
+GitHub repository: alx-react
+Directory: 0x07-react_redux_action_creator_normalizr
