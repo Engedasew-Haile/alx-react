@@ -37,4 +37,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 # Repo:
 GitHub repository: alx-react
 Directory: 0x08-react_redux_reducer_selector
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3fbf730f87d94fac4b85e9e3abaa074510684df1
